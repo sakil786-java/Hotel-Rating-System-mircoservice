@@ -1,0 +1,7 @@
+server:
+  port: 8085
+spring:
+  application:
+    name: CONFIG-SERVER
+
+#CONFIG-SERVER Configuration hide
